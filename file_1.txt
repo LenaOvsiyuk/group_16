@@ -1,0 +1,8 @@
+
+
+
+
+lenaovsiuk@MacBook-Pro-Lena group_16 % ls -la
+clean
+
+lenaovsiuk@MacBook-Pro-Lena group_16 % ls -la
